@@ -1,0 +1,5 @@
+WIZARD COMMANDS (are case-sensitive)
+---------------
+P   peek into another room
+G   go to room
+K   kill a creature

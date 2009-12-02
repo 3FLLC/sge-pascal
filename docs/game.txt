@@ -1,0 +1,13 @@
+GAME NOTES
+Copyright (C) 2002 Angelo Bertolli
+
+Fighting
+--------
+1. Natural AC of a creature (without armor) is (level)*3
+2. The attack probability of a creature is 50+((level)*4)
+
+Shops
+-----
+1. Any room that has two or more shops will have the option to sleep
+   the night and gain hit points.
+

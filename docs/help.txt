@@ -1,0 +1,13 @@
+COMMANDS (are case-sensitive)
+--------
+?   help                 t   take
+6   east                 r   ready
+8   north                d   drop
+2   south                i   inventory
+4   west                 s   shop
+l   look                 a   attack
+v   view stats           p   pillage corpse
+
+L   load
+S   save
+Q   quit

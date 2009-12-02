@@ -1,0 +1,77 @@
+GUIDE TO BUILDING GAMES
+Copyright (C) 2002 Angelo Bertolli
+
+The Player
+----------
+1. The player should start out with about 40 to 80 gold
+
+Monsters
+--------
+1. Monsters should have about 4 to 8 hit points per level, 1 to 4 for
+   level 0
+2. Experience given should be about (maximum damage)*(((level)^2)/3)
+3. Regular monsters should carry about 2 to 6 gold per level
+
+Weapons
+-------
+1. Hit roll bonuses are done in % (not on 1d20 like in other RPGs),
+   so generally you want to multiply your + by 5, eg. a "sword +3"
+   would have +3 to damage, and +15 to hit
+2. Here is a chart of basic weapons, their value, damages, and hit
+   roll bonuses (%)
+
+   Weapon                     Damage      Hit Roll        Value
+
+   Battle axe                 1d10        +2              12
+   Hand axe                   1d6         +0              8
+   Short bow                  2d4         +0              20
+   Long bow                   2d5         +0              40
+   Light crossbow             2d4         +2              30
+   Heavy crossbow             3d4         +2              60
+   War hammer                 1d8         +0              10
+   Mace                       1d5         +0              7
+   Staff                      1d6         +3              8
+   Dagger                     1d4         -2              4
+   Sword                      1d9         +0              11
+   Short sword                1d7         +0              9
+   Two-handed sword           2d5         +2              14
+   Spear                      1d8         +3              11
+   Polearm                    2d6         +4              20
+
+   Magical bow                2d5+2       +10             200
+   Magical sword              1d9+3       +15             300
+   Chaos sword                2d8+3       +18             1500
+   Emerald sword              2d8+4       +20             4000
+
+Armor
+-----
+1. Armor AC values are the amount in % that it is more difficult to
+   hit the creature.
+2. Here is a chart of basic armors, their value, and AC bonus (%)
+
+   Armor                      AC bonus                    Value
+
+   Skins                      2                           4
+   Helmet                     3                           5
+   Small shield               4                           8
+   Medium shield              5                           10
+   Large shield               7                           12
+   Soft leather               10                          18
+   Hard leather               13                          20
+   Ring                       16                          30
+   Scale                      24                          45
+   Chain                      32                          50
+   Banded                     36                          60
+   Plate                      45                          80
+
+   Magical chain              45                          100
+   Magical plate              55                          200
+   Elven chain                64                          1200
+   Dragon plate               75                          1800
+
+Shops
+-----
+1. Not all shops should have all items.
+2. Shops near the beginning of the game should have weaker items,
+   while shops near the end of the game should have better items.
+
